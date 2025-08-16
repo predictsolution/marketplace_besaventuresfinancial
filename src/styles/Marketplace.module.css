@@ -1,0 +1,9 @@
+/* Radio Buttons */
+.option_nftsClass input:checked + .circle-inputRadio {
+  border-color: '#00D800';
+  background-color: '#00D800' !important;
+}
+
+.option_nftsClass input:checked + .circle-inputRadio .circle-intoInputRadio {
+  background-color: '#666666';
+}
